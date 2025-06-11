@@ -1,3 +1,6 @@
+![Baanner](https://imgur.com/a/T3Y2A9o)
+
+
 # 👋 ¡Hola! Soy Nicolás Pérez Medrano (aka Nikolino98)
 
 📍 Córdoba, Argentina  
