@@ -1,4 +1,4 @@
-<img src="https://imgur.com/gallery/nicolas-perez-medrano-T3Y2A9o" alt="Banner" style="width:100%; border-radius: 12px;" />
+![Banner](./banner.png)
 
 
 # 👋 ¡Hola! Soy Nicolás Pérez Medrano (aka Nikolino98)
