@@ -1,4 +1,5 @@
-![Banner](./banner.png)
+![Banner](./Banner.png)
+
 
 
 # 👋 ¡Hola! Soy Nicolás Pérez Medrano (aka Nikolino98)
