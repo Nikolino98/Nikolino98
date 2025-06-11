@@ -1,4 +1,4 @@
-![Baanner](https://imgur.com/a/T3Y2A9o)
+![Baanner](https://imgur.com/gallery/nicolas-perez-medrano-T3Y2A9o)
 
 
 # 👋 ¡Hola! Soy Nicolás Pérez Medrano (aka Nikolino98)
